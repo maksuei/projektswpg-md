@@ -1,7 +1,7 @@
 # Autorzy projektu
 
-- Maksymilian Stańdo – kierownik projektu
-- Dominik Brydniak -zastępca kierownika
+- Maksymilian Stańdo - kierownik projektu
+- Dominik Brydniak - zastępca kierownika
 
 Kontakt:  
     mstando@student.agh.edu.pl 
